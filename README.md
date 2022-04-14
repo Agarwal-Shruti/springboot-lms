@@ -38,8 +38,7 @@
 	        }
 	    }
 	]
-	
-	
+		
 	All List of book in Library
 	
 	GET
@@ -225,7 +224,7 @@
 5) Ability to limit the number of books borrowed by user.
 
 	"Only max 3  books can borrowed by per user";
-	if he try more then 3 books will get user.status = "You [user id ]"+userid +"have used total limit as only max 3  books can borrowed 	by per user"
+	if he try more then 3 books will get user.status = "You [user id ]"+userid +"have used total limit as only max 3  books can borrowed by per user"
 
 
 6) Ability to search a book by title, author.
@@ -343,9 +342,8 @@ Response
 
 ## Installation
 * Ensure that Java 8 and Maven 3.2 are installed
-* Clone this repo:
+* Clone this repo: https://github.com/Agarwal-Shruti/springboot-lms.git
     
-
 ## Usage
 ### Running the Spring Boot app
 Navigate to the directory into which you cloned the repository and execute the command below:
