@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sj-springBootRest
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: shrut
+Implementation-Vendor-Id: lms.co
+Build-Jdk: 1.8.0_281
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: lms.co.LMSApplication
+
